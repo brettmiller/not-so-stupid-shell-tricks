@@ -1,6 +1,10 @@
 # Not so stupid shell tricks
 
-### Slides and videos from a lighting talk on shell tricks
+### Slides and videos from a lighting talk on simple shell tricks 
+
+#### (using and navigating history and the commandline)
+
+<br>
 
 Below are all the keystrokes/commands in the presentation for quick reference
 
@@ -14,7 +18,7 @@ Below are all the keystrokes/commands in the presentation for quick reference
 
 ## Histroy
 
-|Keystroke/Command  | Description
+|Keystroke  /Command  | Description
 ---                 |---
 | CTRL-p / CTRL-n   | Go back in history list/go forward in history list
 | CTRL-r            | Reverse search history.
