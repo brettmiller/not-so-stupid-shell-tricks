@@ -14,7 +14,7 @@ Below are all the keystrokes/commands in the presentation for quick reference
 
 ## Histroy
 
-|Keystroke/command  | Description
+|Keystroke/Command  | Description
 ---                 |---
 | CTRL-p / CTRL-n   | Go back in history list/go forward in history list
 | CTRL-r            | Reverse search history.
